@@ -2,7 +2,7 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
+    question: "When was Sunye born?",
     answer: "Hyper Text Markup Language",
     options: [
       "Hyper Text Preprocessor",
@@ -13,7 +13,7 @@ let questions = [
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
+    question: "What is the name of Sunye's solo album?",
     answer: "Cascading Style Sheet",
     options: [
       "Common Style Sheet",
@@ -24,7 +24,7 @@ let questions = [
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
+    question: "When will Sunye's album be released?",
     answer: "Hypertext Preprocessor",
     options: [
       "Hypertext Preprocessor",
@@ -35,7 +35,7 @@ let questions = [
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
+    question: "Which group did Sunye debut as a member of in 2022?",
     answer: "Structured Query Language",
     options: [
       "Stylish Question Language",
