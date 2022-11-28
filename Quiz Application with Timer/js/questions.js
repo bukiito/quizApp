@@ -2,32 +2,32 @@
 let questions = [
     {
     numb: 1,
-    question: "When was Sunye born?",
-    answer: "12.08.1989",
+    question: "How many times does Sunye say "just a dancer" in the song "Just a Dancer"?",
+    answer: "14",
     options: [
-      "02.05.1989",
-      "04.10.1989",
-      "26.05.1989",
-      "12.08.1989"
+      "11",
+      "12",
+      "13",
+      "14"
     ]
   },
     {
     numb: 2,
-    question: "What is the name of Sunye's solo album?",
-    answer: "Genuine",
+    question: "Which two songs have dance practice videos?",
+    answer: "Genuine and Just a Dancer",
     options: [
-      "First Page",
-      "Reflection of Christ",
-      "Genuine",
-      "Glass Heart"
+      "Now I Fly and Best Thing",
+      "Genuine and Just a Dancer",
+      "Genuine and Glass Heart",
+      "Glass Heart and Just a Dancer"
     ]
   },
     {
     numb: 3,
-    question: "When will Sunye's album be released?",
-    answer: "26.07.2022",
+    question: "When was the first teaser of "Just a Dancer" released on YouTube?",
+    answer: "21.07.2022",
     options: [
-      "26.07.2022",
+      "21.07.2022",
       "23.07.2022",
       "20.07.2022",
       "29.07.2022"
@@ -35,23 +35,12 @@ let questions = [
   },
     {
     numb: 4,
-    question: "Which group did Sunye debut as a member of in 2022?",
-    answer: "MAMADOL",
+    question: "What song did Sunye perform with Taeyeon, Gyuri and Gain at KBS Music Bank (26.12.2008)?",
+    answer: "Buttons",
     options: [
-      "MAMIDOL",
-      "MOMIDOL",
-      "MAMADOL",
-      "MAAMDOL"
-    ]
-  },
-    {
-    numb: 5,
-    question: "What song did Sunye perform with Davichi and Taeyeon at SBS Gayo Daejun 2008?",
-    answer: "Stand Up For Love",
-    options: [
-      "U—Go Girl",
-      "Love Like Oxygen",
-      "Flowerpot",
+      "This Christmas",
+      "That's What Friends Are For",
+      "Buttons",
       "Stand Up For Love"
     ]
   },
@@ -59,7 +48,7 @@ let questions = [
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
   //   {
-  //   numb: 6,
+  //   numb: 5,
   //   question: "Your Question is Here",
   //   answer: "Correct answer of the question is here",
   //   options: [
