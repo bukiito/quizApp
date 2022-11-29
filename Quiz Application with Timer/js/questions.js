@@ -2,7 +2,7 @@
 let questions = [
     {
     numb: 1,
-    question: "How many times does Sunye say "just a dancer" in the song "Just a Dancer"?",
+    question: "How many times does Sunye say 'just a dancer' in 'Just a Dancer'?",
     answer: "14",
     options: [
       "11",
@@ -24,7 +24,7 @@ let questions = [
   },
     {
     numb: 3,
-    question: "When was the first teaser of "Just a Dancer" released on YouTube?",
+    question: "When was the first teaser of 'Just a Dancer' released on YouTube?",
     answer: "21.07.2022",
     options: [
       "21.07.2022",
@@ -41,17 +41,6 @@ let questions = [
       "This Christmas",
       "That's What Friends Are For",
       "Buttons",
-      "Stand Up For Love"
-    ]
-  },
-       {
-    numb: 5,
-    question: "What song did Sunye perform with Davichi and Taeyeon at SBS Gayo Daejun 2008?",
-    answer: "Stand Up For Love",
-    options: [
-      "U—Go Girl",
-      "Love Like Oxygen",
-      "Flowerpot",
       "Stand Up For Love"
     ]
   },
